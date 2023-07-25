@@ -1,0 +1,115 @@
+:root {
+  --font-family: 'Jost', system-ui, sans-serif;
+  --font-family-monospace: monospace;
+  --base-color: {{ .Site.Params.baseColor }};
+  --base-offset-color: {{ .Site.Params.baseOffsetColor }};
+  --black: {{ .Site.Params.black }};
+  --red: {{ .Site.Params.red }};
+  --blue: {{ .Site.Params.blue }};
+  --green: {{ .Site.Params.green }};
+  --yellow: {{ .Site.Params.yellow }};
+  --text-color: {{ .Site.Params.textColor }};
+  -webkit-font-smoothing: antialiased;
+
+}
+ //* --font-family: 'Manrope', system-ui, sans-serif;
+:root,
+:root.light {
+    --cactus-error-color: var(--red)!important;
+}
+
+.cactus-comment-displayname, .cactus-button, .cactus-error-text {
+  font-weight: 200 !important;
+}
+
+.cactus-comment {
+  border-block-end: none !important;
+    p {
+      padding: 0 0 20px 0 !important;
+      text-align: left !important;
+      }
+}
+
+@font-face {
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: 200;
+  src: local(''),
+       url('../fonts/manrope-v13-latin-200.woff2') format('woff2');
+  font-display: swap;
+      }
+
+@font-face {
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../fonts/manrope-v13-latin-regular.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Jost;
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../fonts/Jost-400-Book.otf') format('oft');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Jost;
+  font-style: normal;
+  font-weight: 400 800;
+  src: local(''),
+      url('../fonts/Jost-VariableFont_wght.ttf') format("truetype-variations");
+}
+
+$breakpoints: (
+  'small': 767px,
+  'medium': 992px,
+  'large': 1200px,
+);
+
+@import 'normalize';
+@import 'breakpoints';
+@import 'header';
+@import 'footer';
+@import 'content';
+@import 'intro';
+@import 'summary';
+@import 'author';
+@import 'pagination';
+@import 'main-menu';
+@import 'main-menu-mobile';
+@import 'pygments/github';
+
+html, body {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--base-color);
+  font-family: var(--font-family);
+  color: var(--text-color);
+  margin: 0;
+  padding: 0 10px 0 10px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  font-weight: 400;
+}
+
+body.dark-mode,
+body.dark-mode main * {
+    background: #191919;
+  & .menu-main-mobile {
+    background: #191919;}
+  & p, .footer, .summary-date, .intro, .intro-date a, .content, .summary-title a, .summary-date a, .footer a, .menu-main-mobile {
+    color: #999; }
+  & .menu-main a, .hamburger, .hamburger is-active, .affiliate {
+    color: var(--base-color);}
+  & .header .img {
+    fill: var(--base-color);}
+  & .footer .img {
+    fill: #999;}
+  }

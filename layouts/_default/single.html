@@ -1,0 +1,15 @@
+{{ define "body_classes" }}page-default-single{{ end }}
+
+{{ define "main" }}
+{{ partial "header.html" . }}
+<div class="intro">
+  <div class="intro-date">&nbsp;</div>
+  <h1>{{ .Title }}</h1>
+</div>
+<div class="content">
+  {{ if .Params.image }}
+      <img class="hero" alt="{{.Params.imageAltAttribute | default "Article hero image"}}" src="{{ .Params.image | relURL }}" />
+      {{ end }}
+  {{ .Content }}
+</div>
+{{ end }}

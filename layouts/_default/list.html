@@ -1,0 +1,14 @@
+{{ define "body_classes" }}page-default-list{{ end }}
+
+{{ define "main" }}
+{{ partial "header.html" . }}
+  <div class="intro">
+    <h1>{{ .Title }}</h1>
+    {{ if .Params.description }}<p>{{ .Params.description }}</p>{{ end }}
+  </div>
+  {{ .Content }}
+  {{ range .Pages }}
+    {{ .Render "summary" }}
+  {{ end }}
+{{ end }}
+

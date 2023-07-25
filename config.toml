@@ -1,0 +1,69 @@
+baseURL = "https://blog.pitchpat.ch"
+languageCode = "en-us"
+theme = "hugo-winston-theme"
+themesDir = "themes"
+title = "pitch patch"
+paginate = 5
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+enableRobotsTXT = true
+disqusShortname = 'pitchpatch'
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+[params]
+  showAuthorOnHomepage = false
+  showAuthorOnPosts = false
+  showPostsOnHomepage = true
+  addDot = false
+  addFrame = false
+  black = "#0f0e12"
+  red = "#FF6969"
+  blue = "#0071bb"
+  green = "#619B8A"
+  yellow = "#FABC3C"
+  baseColor = "#f0f1ed"
+  baseOffsetColor = "#000"
+  textColor = "#666666"
+  description = "pitch patch blog"
+
+[taxonomies]
+  category = 'category'
+  tag = 'tags'
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
+
+[[menu.social]]
+     name = "youtube"
+     weight = 50
+     url = "https://www.youtube.com/pitchpatch?sub_confirmation=1"
+     post = "<span class='alert'>New!</span>"
+
+[[menu.social]]
+    name = "instagram"
+     weight = 60
+     url = "https://pitchpat.ch/instagram"
+     post = "<span class='alert'>New!</span>"

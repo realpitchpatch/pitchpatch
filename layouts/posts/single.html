@@ -1,0 +1,18 @@
+{{ define "body_classes" }}page-blog-single{{ end }}
+
+{{ define "main" }}
+{{ partial "header.html" . }}
+  <div class="blog">
+    <div class="intro">
+      <div class="intro-date">{{ dateFormat "Jan 2, 2006" .Date }} in {{ range .Params.category }}<a href="{{ "/category/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}</div>
+      <h1>{{ .Title }}</h1>
+    </div>
+    <div class="content">
+      {{ if .Params.image }}
+      <img class="hero" alt="{{.Params.imageAltAttribute | default "Article hero image"}}" src="{{ .Params.image | relURL }}" />
+      {{ end }}
+      {{ .Content }}
+      {{ partial "tags.html" . }}
+    </div>
+  </div>
+{{ end }}
