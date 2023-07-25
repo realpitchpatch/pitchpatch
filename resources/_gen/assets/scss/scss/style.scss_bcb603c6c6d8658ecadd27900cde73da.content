@@ -916,5 +916,11 @@ body.dark-mode main * {
   body.dark-mode .footer .img,
   body.dark-mode main * .footer .img {
     fill: #999; }
+  body.dark-mode ul.pagination li,
+  body.dark-mode main * ul.pagination li {
+    color: #fff; }
+    body.dark-mode ul.pagination li:hover a,
+    body.dark-mode main * ul.pagination li:hover a {
+      color: #fff; }
 
 /*# sourceMappingURL=style.css.map */

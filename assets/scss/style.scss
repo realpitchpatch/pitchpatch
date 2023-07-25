@@ -112,4 +112,12 @@ body.dark-mode main * {
     fill: var(--base-color);}
   & .footer .img {
     fill: #999;}
-  }
+  & ul.pagination {
+    li {
+      color: #fff;
+      &:hover {
+        a {
+          color: #fff;
+        }
+      }
+  }}}
