@@ -1,16 +1,16 @@
 <div class="footer">
   <div class="affiliate">
-    <span class="terms">If you head out to buy stuff & want to help the channel, pls use affiliate links (at no extra cost to you!)</span>
-    <span class="terms"><a href="https://shareasale.com/r.cfm?b=1879883&u=3378053&m=117518&urllink=&afftrack=" title="Patchwerks" target="_blank" rel="noopener">Patchwerks</a> (Seattle, WA)</span>
-    <span class="terms"><a href="https://link.perfectcircuit.com/t/v1/8-12626-283853-9759" title="Perfect Circuit" target="_blank" rel="noopener">Perfect Circuit</a> (Burbank, CA)</span>
-    <span class="terms"><a href="https://clockfacemodular.com?sca_ref=2644490.06JzhLD1nv" title="Clockface Modular" target="_blank" rel="noopener">Clockface Modular</a> (Tokyo, JP)</span>
-    <span class="terms"><a href="https://reverb.grsm.io/yi0cb1ksx6t2" title="Reverb" target="_blank" rel="noopener">Reverb</a> (WW)</span>
+    <span class="link">If you head out to buy stuff & want to help the channel, pls use affiliate links (at no extra cost to you!)</span>
+    <span class="link"><a href="https://shareasale.com/r.cfm?b=1879883&u=3378053&m=117518&urllink=&afftrack=" title="Patchwerks" target="_blank" rel="noopener">Patchwerks</a> (Seattle, WA)</span>
+    <span class="link"><a href="https://link.perfectcircuit.com/t/v1/8-12626-283853-9759" title="Perfect Circuit" target="_blank" rel="noopener">Perfect Circuit</a> (Burbank, CA)</span>
+    <span class="link"><a href="https://clockfacemodular.com?sca_ref=2644490.06JzhLD1nv" title="Clockface Modular" target="_blank" rel="noopener">Clockface Modular</a> (Tokyo, JP)</span>
+    <span class="link"><a href="https://reverb.grsm.io/yi0cb1ksx6t2" title="Reverb" target="_blank" rel="noopener">Reverb</a> (WW)</span>
   </div>
 
   <div>
-    {{ range .Site.Menus.main }}<span class="terms"><a href="{{.URL}}" title="{{ .Name }}">{{ .Name }}</a></span>{{end}}  
+    {{ range .Site.Menus.main }}<span class="link"><a href="{{.URL}}" title="{{ .Name }}">{{ .Name }}</a></span>{{end}}  
     
-    {{ range .Site.Menus.social }}<span class="terms"><a href="{{.URL}}" title="{{ .Name }}" target="_blank">{{ .Name }}</a></span>{{end}}
+    {{ range .Site.Menus.social }}<span class="link"><a href="{{.URL}}" title="{{ .Name }}" target="_blank">{{ .Name }}</a></span>{{end}}
   </div>
   <div class="copyright">© 2023 <a href="{{.Site.BaseURL}}">pitch patch</a>. <a href="/privacy">privacy</a>. <a href="/terms">terms of use</a>.</div>
   <div class="footer logo">

@@ -1,16 +1,16 @@
 .summary {
   font-size: 18px;
-  line-height: 24px;
+  line-height: 28px;
   @include breakpoint('small') {
-    font-size: 22px;
-    line-height: 26px;
+    font-size: 20px;
+    line-height: 32px;
     max-width: 1000px;
     margin: 0 auto;
   }
   .summary-title {
-    margin: 40px 0 40px 0;
-    font-size: 48px;
-    line-height: 1.1;
+    margin: 160px 0 0px 0;
+    font-size: 32px;
+    line-height: 38px;
     text-align: center;
     & a {
       color: var(--text-color);
@@ -21,8 +21,8 @@
       text-decoration-thickness: 2px;
     }
     @include breakpoint('small') {
-    font-size: 54px;
-    line-height: 1.1;
+    font-size: 42px;
+    line-height: 52px;
     }
   }
   & p {
@@ -31,11 +31,13 @@
     text-align: center;
     }
   .summary-date {
-    font-size: 16px;
-    padding: 160px 0 0 0;
+    font-size: 14px;
+    line-height: 1.5;
+    padding: 0 0 40px 0;
     text-align: center;
     @include breakpoint('small') {
-      font-size: 18px;
+      font-size: 14px;
+      line-height: 1.5;
     }
     & a {
       color: var(--text-color);

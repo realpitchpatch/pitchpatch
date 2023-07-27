@@ -119,5 +119,12 @@ body.dark-mode main * {
         a {
           color: #fff;
         }
+       }
+       &.pagination-item-current {
+        a {
+          color: var(--text-color);
+        }
       }
-    }}}
+      }
+   }
+  }

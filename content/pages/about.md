@@ -13,9 +13,7 @@ menu:
 
 I am Michael and I make videos about synths and cool stuff.  
 <br />
-If you  
-<br />
-want to know all about a certain piece of gear  
+If you want to know all about a certain piece of gear  
 dont like reading manuals  
 want to get inspired  
 or just like listening to music  

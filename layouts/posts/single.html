@@ -4,8 +4,8 @@
 {{ partial "header.html" . }}
   <div class="blog">
     <div class="intro">
-      <div class="intro-date">{{ dateFormat "Jan 2, 2006" .Date }} in {{ range .Params.category }}<a href="{{ "/category/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}</div>
       <h1>{{ .Title }}</h1>
+      <div class="intro-date">{{ dateFormat "Jan 2, 2006" .Date }} in {{ range .Params.category }}<a href="{{ "/category/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}</div>
     </div>
     <div class="content">
       {{ if .Params.image }}
