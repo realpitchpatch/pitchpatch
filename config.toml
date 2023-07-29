@@ -23,12 +23,12 @@ disqusShortname = 'pitchpatch'
   addFrame = false
   black = "#0f0e12"
   red = "#FF6969"
-  blue = "#0071bb"
+  blue = "#0087E0"
   green = "#619B8A"
   yellow = "#FABC3C"
   baseColor = "#f0f1ed"
-  baseOffsetColor = "#000"
-  textColor = "#666666"
+  baseOffsetColor = "#0F0F0F"
+  textColor = "#666"
   description = "pitch patch blog"
 
 [taxonomies]

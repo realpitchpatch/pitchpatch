@@ -12,7 +12,6 @@
   -webkit-font-smoothing: antialiased;
 
 }
- //* --font-family: 'Manrope', system-ui, sans-serif;
 :root,
 :root.light {
     --cactus-error-color: var(--red)!important;
@@ -31,24 +30,6 @@
 }
 
 @font-face {
-  font-family: Manrope;
-  font-style: normal;
-  font-weight: 200;
-  src: local(''),
-       url('../fonts/manrope-v13-latin-200.woff2') format('woff2');
-  font-display: swap;
-      }
-
-@font-face {
-  font-family: Manrope;
-  font-style: normal;
-  font-weight: 400;
-  src: local(''),
-       url('../fonts/manrope-v13-latin-regular.woff2') format('woff2');
-  font-display: swap;
-}
-
-@font-face {
   font-family: Jost;
   font-style: normal;
   font-weight: 400;
@@ -63,6 +44,7 @@
   font-weight: 400 800;
   src: local(''),
       url('../fonts/Jost-VariableFont_wght.ttf') format("truetype-variations");
+  font-display: swap;
 }
 
 $breakpoints: (
@@ -106,18 +88,18 @@ body.dark-mode main * {
     background: #191919;}
   & p, .footer, .summary-date, .intro, .intro-date a, .content, .summary-title a, .summary-date a, .footer a, .menu-main-mobile {
     color: #999; }
-  & .menu-main a, .hamburger, .hamburger is-active, .affiliate {
+  & .menu-main a, .menu-main-mobile ul li a, .hamburger, .hamburger is-active, .affiliate {
     color: var(--base-color);}
   & .header .img {
     fill: var(--base-color);}
   & .footer .img {
-    fill: #999;}
+    fill: var(--text-color);}
   & ul.pagination {
     li {
       color: #fff;
       &:hover {
         a {
-          color: #fff;
+          color: #999;
         }
        }
        &.pagination-item-current {
