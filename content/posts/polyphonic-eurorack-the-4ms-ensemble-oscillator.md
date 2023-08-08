@@ -24,10 +24,10 @@ Get further information about the 4ms Ensemble Oscillator, the manual, and firmw
 
 Grab the Ensemble Oscillator from
 * Reverb (WW)
-   https://pitchpat.ch/reverb-ensemble
+   https://pitchpat.ch/rvrb-ensemble
 * Patchwerks (US)
-   https://pitchpat.ch/patchwerks-ensemble
+   https://pitchpat.ch/ptch-ensemble
 * Perfect Circuit (US)
-   https://pitchpat.ch/perfectcircuit-ensemble
+   https://pitchpat.ch/prfct-ensemble
 * Clockface Modular (JP)
-   https://pitchpat.ch/clockfacemodular-ensemble
+   https://pitchpat.ch/clck-ensemble

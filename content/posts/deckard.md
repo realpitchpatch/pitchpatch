@@ -20,20 +20,20 @@ Deckard's Voice is a CS-80-Style single-voice of Deckard's Dream Mk2 trimmed dow
 
 Get your Deckard's Voice at
 * Reverb (WW)
-   https://pitchpat.ch/reverb-deckard
+   https://pitchpat.ch/rvrb-deckard
 * Perfect Circuit (US)
-   https://pitchpat.ch/perfectcircuit-deckard
+   https://pitchpat.ch/prfct-deckard
 * Clockface Modular (JP)
-   https://pitchpat.ch/clockface-deckard
+   https://pitchpat.ch/clck-deckard
 
 ## Modules (FLTR) 
 
 1. ALM Busy Circuits mmMIDI
-    https://pitchpat.ch/perfectcircuit-mmmidi
+    https://pitchpat.ch/prfct-mmmidi
 2. Black Corporation Deckard's Voice
-    https://pitchpat.ch/perfectcircuit-deckard
+    https://pitchpat.ch/prfct-deckard
 3. ALM Busy Circuits MFX
-    https://pitchpat.ch/perfectcircuit-mfx
+    https://pitchpat.ch/prfct-mfx
 
 ## Stuff
 
@@ -44,5 +44,5 @@ Get your Deckard's Voice at
 * Konstant Lab Power Supply
    https://pitchpat.ch/konstantlab
 * RME Fireface UCX II
-   https://pitchpat.ch/perfectcircuit-ucx
+   https://pitchpat.ch/prfct-ucx
 * Ableton Live 11

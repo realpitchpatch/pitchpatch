@@ -4,6 +4,7 @@ date: "2017-05-20"
 description: "Long before the Fender 52 Telecaster Reissues, the Telecaster was developed by Leo Fender in Fullerton, California, and introduced in 1950 as Broadcaster. It is the world's first solid-body electric guitar that was commercially successful and has been in production ever since. Because of the black pickguard, the early Telecaster is sometimes called 'Black-guard' Telecaster."
 image: images/Fender-AV-52-Telecaster.jpg
 imageAltAttribute: Fender 52 Telecaster Reissue
+draft: true
 category: 
   - guitars
 tags:

@@ -2,6 +2,7 @@
 title: "Volume Drop + Dry/Wet Mix + LED"
 date: "2015-08-10"
 description: "Some disadvantages come with vintage pedals (like the MXR Phase 90 or the Electro Harmonix Electric Mistress), like a lower output volume, bad buffer, no dry/wet mix, or no status LED. A simple, non-invasive mod solves all those issues: the Boss LS-2."
+draft: true
 category: 
   - pedals
 tags: 

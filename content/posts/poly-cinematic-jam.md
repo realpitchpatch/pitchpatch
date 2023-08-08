@@ -21,44 +21,44 @@ Watch [two uncut Eurorack modular synth jams](https://youtu.be/rsI6Jou0P1M "watc
 The Poly Cinematic is an 8-voice polysynth Eurorack module designed to produce luscious pads and rhythmic power chords using just a few simple controls.
 
 Grab the Poly Cinematic at Perfect Circuit
-https://pitchpat.ch/perfectcircuit-poly
+https://pitchpat.ch/prfct-poly
 
 
 ## Modules (FLTR) 
 
 1. Knobula Poly Cinematic
-    https://pitchpat.ch/perfectcircuit-poly
+    https://pitchpat.ch/prfct-poly
 2. SoundForce uDCO
-    https://pitchpat.ch/perfectcircuit-udco
+    https://pitchpat.ch/prfct-udco
 3. ALM Busy Circuits Pip Slope Mk2
-    https://pitchpat.ch/perfectcircuit-pip
+    https://pitchpat.ch/prfct-pip
 4. Intellijel Rainmaker
-    https://pitchpat.ch/reverb-rainmaker
+    https://pitchpat.ch/rvrb-rainmaker
 5. Intellijel USB Power 1U
-    https://pitchpat.ch/patchwerks-usb
+    https://pitchpat.ch/ptch-usb
 6. Intellijel MIDI 1U
-    https://pitchpat.ch/patchwerks-midi
+    https://pitchpat.ch/ptch-midi
 7. Intellijel Duatt 1U
-    https://pitchpat.ch/patchwerks-duatt
+    https://pitchpat.ch/ptch-duatt
 8. Intellijel Dual VCA 1U
-    https://pitchpat.ch/perfectcircuit-dual
+    https://pitchpat.ch/prfct-dual
 9. Intellijel Digiverb 1U
-    https://pitchpat.ch/patchwerks-digiverb
+    https://pitchpat.ch/ptch-digiverb
 10. Intellijel Stereo Line Out 1U
-      https://pitchpat.ch/patchwerks-stereo
+      https://pitchpat.ch/ptch-stereo
 
 ## Stuff
 
 * Torso T-1
-   https://pitchpat.ch/perfectcircuit-t1
+   https://pitchpat.ch/prfct-t1
 * Elektron Model: Cyles
-   https://pitchpat.ch/perfectcircuit-cycles
+   https://pitchpat.ch/prfct-cycles
 * Polar Noise Patch Cables
    https://pitchpat.ch/polarnoise
 * Intellijel 62HP Pallete Case
-   https://pitchpat.ch/perfectcircuit-palette
+   https://pitchpat.ch/prfct-palette
 * RME Fireface UCX II
-   https://pitchpat.ch/perfectcircuit-ucx
+   https://pitchpat.ch/prfct-ucx
 * Ableton Live 11
 
 {{< chat pitch-patch >}}
