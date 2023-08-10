@@ -1,5 +1,5 @@
 ---
-title: "Knobula Poly Cinematic Post Script"
+title: "PS: Knobula Poly Cinematic Jam"
 date: 2022-06-21
 description: "Watch two uncut Eurorack modular synth jams with Knobula Poly Cinematic, SoundForce uDCO, Torso T-1, and Elektron Model: Cycles. The Poly Cinematic is an 8-voice polysynth Eurorack module designed to produce luscious pads and rhythmic power chords using just a few simple controls."
 image: images/poly_ps.jpg
@@ -16,7 +16,7 @@ tags:
 
 ## Eurorack Modular Synth Jam
 
-Watch [two uncut Eurorack modular synth jams](https://youtu.be/rsI6Jou0P1M "watch on YouTube") with Knobula Poly Cinematic, SoundForce uDCO, Torso T-1, and Elektron Model: Cycles.
+Watch [two uncut Eurorack modular synth jams](https://youtu.be/rsI6Jou0P1M "Poly Cinematic on YouTube") with Knobula Poly Cinematic, SoundForce uDCO, Torso T-1, and Elektron Model: Cycles.
 
 The Poly Cinematic is an 8-voice polysynth Eurorack module designed to produce luscious pads and rhythmic power chords using just a few simple controls.
 
@@ -61,4 +61,4 @@ https://pitchpat.ch/prfct-poly
    https://pitchpat.ch/prfct-ucx
 * Ableton Live 11
 
-{{< chat pitch-patch >}}
+{{< chat poly-cinematic-jam >}}

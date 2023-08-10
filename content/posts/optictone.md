@@ -3,7 +3,7 @@ title: "Teia Synthesizers OpticTone"
 date: 2023-05-10
 description: 'Watch an overview and patch demo of the OpticTone vactrol filter for Eurorack modular systems by Teia Synthesizers. '
 image: images/optictone.jpg
-imageAltAttribute: Teia OpticTone
+imageAltAttribute: Teia Synthesizers OpticTone
 category: 
   - eurorack
 tags: 
@@ -15,7 +15,7 @@ tags:
 
 ## Get Your Vactrols Blinking
 
-Watch an [overview and patch demo of the OpticTone](https://youtu.be/eK5RLe0l3lg "watch on YouTube") vactrol filter for Eurorack modular systems by Teia Synthesizers.
+Watch an [overview and patch demo of the OpticTone](https://youtu.be/eK5RLe0l3lg "Optictone on YouTube") vactrol filter for Eurorack modular systems by Teia Synthesizers.
 
 OpticTone is a vactrol based 12dB multi-mode voltage-controlled filter (lowpass, bandpass, and highpass)
 with an integrated voltage-controlled amplifier. It has some unique features, such as a ping input and touch control over frequency and amplitude.
@@ -58,3 +58,5 @@ Get your Teia modules at https://pitchpat.ch/reverb-teia
 * RME Fireface UCX II
    https://pitchpat.ch/prfct-ucx
 * Ableton Live 11
+
+{{< chat optictone >}}

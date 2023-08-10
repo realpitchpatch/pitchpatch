@@ -16,7 +16,7 @@ tags:
 
 I started a new Youtube channel called [pitch patch](https://www.youtube.com/pitchpatch "pitch patch on YouTube")!
 
-In [the first-ever pitch patch video](https://youtu.be/f8w8C_G0m2g "watch on YouTube"), we go through all knobs and functions and check out two patch ideas of the 4ms Ensemble Oscillator.
+In [the first-ever pitch patch video](https://youtu.be/f8w8C_G0m2g "Ensemble Oscillator on YouTube"), we go through all knobs and functions and check out two patch ideas of the 4ms Ensemble Oscillator.
 
 The Ensemble Oscillator was designed by Matthias Puech and 4ms Company. It is a polyphonic voice of sixteen sine-based oscillators combining additive, FM, phase distortion, and wave-folding synthesis techniques.
 
@@ -31,3 +31,5 @@ Grab the Ensemble Oscillator from
    https://pitchpat.ch/prfct-ensemble
 * Clockface Modular (JP)
    https://pitchpat.ch/clck-ensemble
+
+{{< chat ensemble >}}

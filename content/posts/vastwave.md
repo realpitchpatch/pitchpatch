@@ -3,7 +3,7 @@ title: "Teia Synthesizers VastWave"
 date: 2023-03-26
 description: 'Watch an overview and patch demo of the VastWave complex analog oscillator for Eurorack modular systems by Teia Synthesizers. '
 image: images/vastwave.jpg
-imageAltAttribute: VastWave
+imageAltAttribute: Teia Synthesizers VastWave
 category: 
   - eurorack
 tags:
@@ -14,7 +14,7 @@ tags:
 
 ## Go Beyond Subtractive Synthesis
 
-Watch an [overview and patch demo of the VastWave](https://youtu.be/l96Vw_UDt3U "watch on YouTube") complex analog oscillator for Eurorack modular systems by Teia Synthesizers.
+Watch an [overview and patch demo of the VastWave](https://youtu.be/l96Vw_UDt3U "VastWave on YouTube") complex analog oscillator for Eurorack modular systems by Teia Synthesizers.
 
 VastWave features a triangle core, VCO and LFO modes, modern temperature and tuning stability, and attenuators/inverters on all voltage-controlled inputs. With advanced waveshaping capabilities, VastWave invites new textural and harmonic exploration beyond subtractive synthesis principles.
 
@@ -60,15 +60,4 @@ Get your Teia modules at https://pitchpat.ch/rvrb-teia
    https://pitchpat.ch/prfct-ucx
 * Ableton Live 11
 
-## Chapters
-
-00:05 Overview
-02:10 Patches
-
-## Note
-
-Most links above are affiliate links that make it possible for me to create more videos. I get a small kickback at no extra cost to you. This video was not paid for or dictated in any way. Gear shown in this video may be sent by the manufacturer, on loan for review, or bought at a discount.
-
-With ♡ from Germany.
-
-#synthesizers #eurorack #analogoscillator
+{{< chat vastwave >}}

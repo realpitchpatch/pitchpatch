@@ -14,7 +14,7 @@ tags:
 
 ## One Voice Track
 
-Just [shared a short track](https://youtu.be/0s14wq1C7IM "watch on YouTube") where all sounds are made by Black Corporation's Deckard's Voice.
+Just [shared a short track](https://youtu.be/0s14wq1C7IM "Deckards Voice on YouTube") where all sounds are made by Black Corporation's Deckard's Voice.
 
 Deckard's Voice is a CS-80-Style single-voice of Deckard's Dream Mk2 trimmed down and supplemented with flexibility for Eurorack modular systems.
 
@@ -46,3 +46,5 @@ Get your Deckard's Voice at
 * RME Fireface UCX II
    https://pitchpat.ch/prfct-ucx
 * Ableton Live 11
+
+{{< chat deckard >}}

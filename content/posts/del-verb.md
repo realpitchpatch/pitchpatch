@@ -3,6 +3,7 @@ title: "Your Ambience Companion"
 date: 2023-08-08
 description: 'After a longer-than-usual-summer break, I decided to try something new. Experimenting with different camera angles and some new fonts, the latest pitch patch video is the first one with (almost) no hands!'
 image: images/delverb.jpg
+imageAltAttribute: UAFX Del-Verb
 category: 
   - pedals
 tags: 
@@ -14,7 +15,7 @@ tags:
 
 ## New Season - New Video
 
-After a longer-than-usual-summer break, I decided to try something new. Experimenting with different camera angles and some new fonts, [the latest pitch patch video](https://youtu.be/DftcHiEREiA "Your Ambience Companion") is the first one with (almost) no hands!
+After a longer-than-usual-summer break, I decided to try something new. Experimenting with different camera angles and some new fonts, [the latest pitch patch video](https://youtu.be/DftcHiEREiA "Del-Verb on YouTube") is the first one with (almost) no hands!
 
 ## The Universal Audio UAFX Del-Verb (ft. Teenage Engineering OP-1 Field)
 
@@ -36,3 +37,5 @@ https://pitchpat.ch/prfct/delverb
 * RME Fireface UCX II
    https://pitchpat.ch/prfct/ucx
 * Ableton Live 11
+
+{{< chat del-verb >}}
