@@ -24,11 +24,11 @@ This legal notice also applies to the following social media presences and onlin
 
 ## Disclaimer, Liability, and Property Rights Information
 ### Responsibility for Contents
-The contents of our web pages were created with the greatest care. Nevertheless, we cannot guarantee that the content is up-to-date, reliable or complete. In accordance with the law, we are responsible for the content pitch patch created by ourselves. In this context, we would like to clarify that we are not responsible for information provided by or collected from third parties. We do not control the information that is sent, nor do we follow up on possible illegal activities. If illegal activities are detected, we follow our obligation to block or delete the corresponding content, according to paragraphs 8 to 10 of the Telemedia Act (TMG).
+The contents of my web pages were created with the greatest care. Nevertheless, I cannot guarantee that the content is up-to-date, reliable or complete. In accordance with the law, I am responsible for the content pitch patch created by ourselves. In this context, I would like to clarify that I am not responsible for information provided by or collected from third parties. I do not control the information that is sent, nor do I follow up on possible illegal activities. If illegal activities are detected, I follow my obligation to block or delete the corresponding content, according to paragraphs 8 to 10 of the Telemedia Act (TMG).
 
 ### Links to External Websites
-The contents of external websites to which we refer directly or indirectly are outside our area of responsibility and we do not adopt them as our own. We do not assume any responsibility for any content or disadvantages resulting from the use of the information available on the linked websites.
+The contents of external websites to which I refer directly or indirectly are outside my area of responsibility and I do not adopt them as my own. I do not assume any responsibility for any content or disadvantages resulting from the use of the information available on the linked websites.
 
 ### Copyrights and Trademark Rights
-All content displayed on this website, such as texts, photographs, graphics, brands and trademarks are protected by the respective protective rights (copyrights, trademark rights). The use, reproduction, etc. are subject to our rights or the rights of the respective authors or rights holders.
-Information on legal violations: If you notice any legal violations within our Internet presence, please inform us of them. We will remove illegal content and links immediately after becoming aware of them.
+All content displayed on this website, such as texts, photographs, graphics, brands and trademarks are protected by the respective protective rights (copyrights, trademark rights). The use, reproduction, etc. are subject to my rights or the rights of the respective authors or rights holders.
+Information on legal violations: If you notice any legal violations within my Internet presence, please inform me of them. I will remove illegal content and links immediately after becoming aware of them.

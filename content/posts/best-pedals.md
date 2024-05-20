@@ -36,5 +36,3 @@ Pedals are an exciting and fun way to take your sound design to the next level. 
 * RME Fireface UCX II
    https://pitchpat.ch/prfct/ucx
 * Ableton Live 11
-
-{{< chat del-verb >}}

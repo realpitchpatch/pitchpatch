@@ -33,5 +33,3 @@ Patch cables should be 3.5 to 3.5 mm mono TS in about 15 cm increments up to the
 ### 5. Modules
 
 Depending on your goal, you will need some modules. As with most things in life, you should know what you want.
-
-{{< chat start-modular >}}

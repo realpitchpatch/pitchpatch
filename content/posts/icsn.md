@@ -35,7 +35,7 @@ https://pitchpat.ch/clattersmachines
 6. SoundForce uVCF 6
     https://pitchpat.ch/prfct/uvcf
 7. Intellijel uVCA II
-    https://pitchpat.ch/ptch/uvca
+    https://pitchpat.ch/prfct/uvca
 8. Make Noise Math’s
     https://pitchpat.ch/prfct/maths
 9. Clatters Machines ICSn
@@ -52,5 +52,3 @@ https://pitchpat.ch/clattersmachines
 * RME Fireface UCX II
    https://pitchpat.ch/prfct/ucx
 * Ableton Live 11
-
-{{< chat icsn >}}

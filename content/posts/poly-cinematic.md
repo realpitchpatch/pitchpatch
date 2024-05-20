@@ -38,17 +38,17 @@ Get the Poly Cinematic at
 4. Intellijel Rainmaker
     https://pitchpat.ch/rvrb/rainmaker
 5. Intellijel USB Power 1U
-    https://pitchpat.ch/ptch/usb
+    https://pitchpat.ch/prfct/usb
 6. Intellijel MIDI 1U
-    https://pitchpat.ch/ptch/midi
+    https://pitchpat.ch/prfct/midi
 7. Intellijel Duatt 1U
-    https://pitchpat.ch/ptch/duatt
+    https://pitchpat.ch/prfct/duatt
 8. Intellijel Dual VCA 1U
     https://pitchpat.ch/prfct/dual
 9. Intellijel Digiverb 1U
-    https://pitchpat.ch/ptch/digiverb
+    https://pitchpat.ch/prfct/digiverb
 10. Intellijel Stereo Line Out 1U
-      https://pitchpat.ch/ptch/stereo
+      https://pitchpat.ch/prfct/stereo
 
 ## Stuff
 
@@ -63,5 +63,3 @@ Get the Poly Cinematic at
 * RME Fireface UCX II
    https://pitchpat.ch/prfct/ucx
 * Ableton Live 11
-
-{{< chat poly-cinematic >}}

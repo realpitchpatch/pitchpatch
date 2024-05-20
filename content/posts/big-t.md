@@ -35,9 +35,9 @@ https://pitchpat.ch/rvrb/big
 4. Qu-Bit Surface
     https://pitchpat.ch/prfct/surface
 5. Mordax Data
-    https://pitchpat.ch/ptch/data
+    https://pitchpat.ch/prfct/data
 6. ALM Busy Circuits Tyso Daiko
-    https://pitchpat.ch/ptch/tyso
+    https://pitchpat.ch/prfct/tyso
 7. ALM Busy Circuits Pamelas New Workout
     https://pitchpat.ch/rvrb/pamelas
 8. Noise Engineering Clep Diaz
@@ -56,5 +56,3 @@ https://pitchpat.ch/rvrb/big
 * RME Fireface UCX II
    https://pitchpat.ch/prfct/ucx
 * Ableton Live 11
-
-{{< chat big-t >}}

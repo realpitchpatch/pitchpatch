@@ -31,7 +31,7 @@ Get your Steppy from
 1. Intellijel Steppy 1U
     https://pitchpat.ch/prfct/steppy
 2. Intellijel Digiverb 1U
-    https://pitchpat.ch/ptch/digiverb
+    https://pitchpat.ch/prfct/digiverb
 3. ALM Busy Circuits Pamela's New Workout
     https://pitchpat.ch/rvrb/pamelas
 4. Squarp Rample
@@ -41,7 +41,7 @@ Get your Steppy from
 6. ALM Busy Circuits Tyso Daiko
     https://pitchpat.ch/prfct/tyso
 7. ALM Busy Circuits HPO
-    https://pitchpat.ch/ptch/hpo
+    https://pitchpat.ch/prfct/hpo
 
 ## Stuff
 
@@ -52,5 +52,3 @@ Get your Steppy from
 * RME Fireface UCX II
    https://pitchpat.ch/prfct/ucx
 * Ableton Live 11
-
-{{< chat steppy >}}
