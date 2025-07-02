@@ -36,7 +36,7 @@ If you're ready to add the Herbs & Stones Pathways to your setup, grab it here:
 
 1. [Make Noise Maths](https://pitchpat.ch/prfct/maths)  
 2. [SoundForce uDCO](https://pitchpat.ch/prfct/udco)  
-3. [ALM Busy Circuits Pamela's Pro Workout](https://pitchpat.ch/prfct/pams)  
+3. [ALM Busy Circuits Pamelas Pro Workout](https://pitchpat.ch/prfct/pams)  
 4. [Herbs & Stones Legs](https://pitchpat.ch/prfct/clep)  
 5. WMD / SSF MMF  
 6. [Intellijel uVCA II](https://pitchpat.ch/prfct/uvca)  

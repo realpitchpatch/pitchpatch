@@ -36,7 +36,7 @@ Ready to add slicing chaos to your rack?
 
 ## Modules (FLTR)
 
-1. [ALM Busy Circuits Pamela's Pro Workout](https://pitchpat.ch/prfct/pams)  
+1. [ALM Busy Circuits Pamelas Pro Workout](https://pitchpat.ch/prfct/pams)  
 2. [Hikari Ping Filter](https://pitchpat.ch/prfct/ping)  
 3. [SoundForce uDCO](https://pitchpat.ch/prfct/udco)  
 4. [Expert Sleepers Disting Mk4](https://pitchpat.ch/prfct/disting)  
