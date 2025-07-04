@@ -66,4 +66,4 @@ disqusShortname = 'pitchpatch'
     name = "instagram"
      weight = 60
      url = "https://pitchpat.ch/instagram"
-     post = "<span class='alert'>New!</span>"
+     post = "<span class='alert'>New!</span>" 
