@@ -21,7 +21,7 @@ or just like listening to music
 this channel (and blog) is for you!
 <br /><br />
 Feel free to check out my [blog posts]({{< ref "/" >}} "blog"), [videos](https://youtube.com/pitchpatch "pitch patch on YouTube"), and [pitcures](https://instagram.com/realpitchpatch "pitch patch on Instagram").   
-[Contact me]({{< ref "/contact" >}} "contact") if you have any questions.
+[Contact me](mailto:website@pitchpat.ch) if you have any questions.
 
 ## Backstory
 
