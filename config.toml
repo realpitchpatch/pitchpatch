@@ -3,12 +3,14 @@ languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
 title = "pitch patch"
-paginate = 5
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
 enableRobotsTXT = true
 disqusShortname = 'pitchpatch'
+
+[pagination]
+  pagerSize = 5
 
 [module]
   [module.hugoVersion]
@@ -43,6 +45,8 @@ disqusShortname = 'pitchpatch'
   [privacy.instagram]
     disable = true
   [privacy.twitter]
+    disable = true
+  [privacy.x]
     disable = true
   [privacy.vimeo]
     disable = true
